@@ -1,6 +1,6 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a software developer (aka XXI century magician 🧙🏻) interested in beautiful code and shiny technology.
+I'm a software developer interested in beautiful code and shiny technology.
 
 Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin
 
