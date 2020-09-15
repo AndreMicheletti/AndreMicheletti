@@ -6,5 +6,6 @@ Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sort
 
 - ✒️ `Python` and `Javascript` are my main languages
 - 📚 I’m currently learning [Elixir](https://elixir-lang.org/)
+- 🎮 I'm also into game development and design
 - ⚡ Fun fact: I'm also a good swimmer 
 
