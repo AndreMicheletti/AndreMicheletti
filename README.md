@@ -1,6 +1,6 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a software developer interested in beautiful code and shiny technology.
+I'm a software developer interested in clean code, unit testing and game development.
 
 Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin
 
