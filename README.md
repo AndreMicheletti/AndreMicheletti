@@ -2,7 +2,7 @@
 
 I'm a software developer interested in clean code, unit testing and game development. I'm also into game development and design.
 
-Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin and [👾 Agones SDK for Godot](https://github.com/AndreMicheletti/godot-agones-sdk) plugin for [Godot Engine](https://godotengine.org/)
+Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin and [👾 Agones SDK for Godot](https://github.com/AndreMicheletti/godot-agones-sdk) plugin.
 
 - ✒️ `Python` and `Javascript` are my main languages
 - 🎮 Building a multiplayer game using [Godot Engine](https://godotengine.org/) and [Agones](https://agones.dev/site/)
