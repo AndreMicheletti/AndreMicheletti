@@ -1,6 +1,6 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a software developer interested in clean code, unit testing and game development. I'm also into game development and design.
+I'm a software developer interested in clean code, unit testing and rapid development. I'm also into game development and design.
 
 Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin and [👾 Agones SDK for Godot](https://github.com/AndreMicheletti/godot-agones-sdk) plugin.
 
