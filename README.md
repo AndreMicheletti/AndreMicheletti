@@ -1,12 +1,14 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a software developer interested in clean code, unit testing and rapid development. I'm also into game development and design.
+I'm a game developer interested in clean code, unit testing and rapid development. Also I have experience with web development and devops.
+
+Check out my itch.io page: [🎮 andre-micheletti.itch.io](https://andre-micheletti.itch.io)
 
 Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) plugin and [<img src="https://raw.githubusercontent.com/AndreMicheletti/godot-agones-sdk/master/agones-sdk-icon.svg" width="16"> Agones SDK for Godot](https://github.com/AndreMicheletti/godot-agones-sdk) plugin.
 
 - ✒️ `Python` and `Javascript` are my main languages
 - 🎮 Building a multiplayer game using [Godot Engine](https://godotengine.org/) and [Agones](https://agones.dev/site/)
-- 📚 Currently learning [Elixir](https://elixir-lang.org/)
+- 📚 Currently learning [Elixir](https://elixir-lang.org/) and [CocosCreator](https://www.cocos.com/en/creator)
 - ⚡ Fun fact: I'm also a good swimmer 
 
 ## My Projects
