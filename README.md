@@ -1,6 +1,6 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a professional game developer, currently working with casino games, and highly interested game design and in the indie industry. Also I have experience with web development and devops, always concerned with clean code, unit testing and rapid development.
+I'm a professional game developer, currently working with casino games, and highly interested game design and in the indie community. Also I have experience with web development and devops, always concerned with clean code, unit testing and rapid development.
 
 Check out my itch.io page: [🎮 andre-micheletti.itch.io](https://andre-micheletti.itch.io)
 
