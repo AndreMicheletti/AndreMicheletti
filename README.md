@@ -1,6 +1,6 @@
 ### Hello World 👋 Welcome to my profile 👨🏻‍💻
 
-I'm a professional game developer, currently working with casino games, and highly interested game design and in the indie community. Also I have experience with web development and devops, always concerned with clean code, unit testing and rapid development.
+I'm a professional game developer, currently working with mobile games, and highly interested game design and in the indie community. Also I have experience with web development and devops, always concerned with clean code, unit testing and rapid development.
 
 Check out my itch.io page: [🎮 andre-micheletti.itch.io](https://andre-micheletti.itch.io)
 
@@ -11,10 +11,10 @@ Developer of [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sort
 - 📚 Currently learning [Elixir](https://elixir-lang.org/) and [CocosCreator](https://www.cocos.com/en/creator)
 - ⚡ Fun fact: I'm also a good swimmer 
 
-## My Projects
+## Other Projects
 
 - [🧩 pytest-sorter](https://github.com/AndreMicheletti/pytest-sorter) - Execute first tests that fail more often (based on your execution history)
 -  [<img src="https://raw.githubusercontent.com/AndreMicheletti/godot-agones-sdk/master/agones-sdk-icon.svg" width="16"> Agones SDK for Godot](https://github.com/AndreMicheletti/godot-agones-sdk) - Community plugin to use Agones in your Godot project
-- [🎲 Game Idea Generator](https://gameideagenerator.online/) - Randomizes a set of themes, gameplay mechanics and genres to create a unique idea for you
-- [🔐 Lero App](https://andremicheletti.github.io/lero-app) - Encrypted messaging app build with Elixir with fun "cyberpunk" themeing. and has gamification features planned
-- [🎮 Siege 2D Project](https://andregamedev.itch.io/siege2d) - Multiplayer top-down 2D shooter game based on CS2D and R6
+- [🎲 Game Idea Generator](https://chromewebstore.google.com/detail/game-idea-generator/aoeolgodbphjghklpaiapijnblbaoiod) - Randomizes a set of themes, gameplay mechanics and genres to create a unique idea for you
+- [🎮 Siege 2D Project](https://andre-micheletti.itch.io/siege2d) - Multiplayer top-down 2D shooter game based on CS2D and R6
+~~- 🔐 Lero App - Encrypted messaging app build with Elixir with fun "cyberpunk" themeing. and has gamification features planned~~
